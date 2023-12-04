@@ -32,4 +32,4 @@ Skills &  Interests
 Publications
 ============
 
-[see publications]()
+[see publications](https://guogithub0321.github.io/publications/)
