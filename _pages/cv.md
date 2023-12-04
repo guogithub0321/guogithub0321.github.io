@@ -19,19 +19,19 @@ Education
 Research Experience
 ===================
 
-*Note. `<sup>`[n]`</sup>` refers to the item in the publication list.*
+*Note. <sup>[n]</sup> refers to the item in the publication list.*
 
-<divstyle="float: right;">2019-2021 `</div>` Prof. Xiang Wu’s Lab, Sun Yat-sen University
+<divstyle="float: right;">2019-2021 </div> Prof. Xiang Wu’s Lab, Sun Yat-sen University
 
-* Research Tops: Cognitive Neuroscience `<sup>`[1]`</sup>`, Temporal Processing `<sup>`[2]`</sup>`
+* Research Tops: Cognitive Neuroscience <sup>[1]</sup>, Temporal Processing <sup>[2]</sup>
 
-<divstyle="float: right;">2017-2019 `</div>` Prof. Jinsong Chen’s Lab, Sun Yat-sen University
+<divstyle="float: right;">2017-2019 </div> Prof. Jinsong Chen’s Lab, Sun Yat-sen University
 
-* Research Tops: Latent Variable Modeling `<sup>`[4,7]`</sup>`, Psychometerics `<sup>`[5]`</sup>`
+* Research Tops: Latent Variable Modeling <sup>[4,7]</sup>, Psychometerics <sup>[5]</sup>
 
-<divstyle="float: right;">2016-2018 `</div>` Prof. Qi Wang’s Lab, Sun Yat-sen University
+<divstyle="float: right;">2016-2018 </div> Prof. Qi Wang’s Lab, Sun Yat-sen University
 
-* Research Tops: Cognition `<sup>`[3]`</sup>`
+* Research Tops: Cognition <sup>[3]</sup>
 
 Publications
 ============
