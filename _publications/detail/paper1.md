@@ -1,7 +1,7 @@
 ---
 title: "Alpha peak activity in resting-state EEG is associated with depressive score"
 collection: publications
-permalink: /publication/paper1
+permalink: /publication/no
 excerpt: ''
 date: 2023-03-07
 venue: 'Frontiers in Neuroscience'

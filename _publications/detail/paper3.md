@@ -1,7 +1,7 @@
 ---
 title: "Paper Title Number 3"
 collection: publications
-permalink: /publication/paper3
+permalink: /publication/n
 excerpt: ''
 date: 2021-04-07
 venue: 'Scientific Reports'

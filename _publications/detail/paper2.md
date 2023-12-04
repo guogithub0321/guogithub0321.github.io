@@ -1,7 +1,7 @@
 ---
 title: "Visual over auditory superiority in sensorimotor timing under optimized condition."
 collection: publications
-permalink: /publication/paper2
+permalink: /publication/n
 excerpt: ''
 date: 2022-11-24
 venue: 'Frontiers in Psychology'
