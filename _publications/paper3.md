@@ -1,12 +1,12 @@
 ---
-title: "Paper Title Number 3"
+title: "Target familiarity and visual working memory do not influence familiarity effect in visual search"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+permalink: /publication/paper3
+excerpt: ''
 date: 2021-04-07
 venue: 'Scientific Reports'
 paperurl: 'https://www.nature.com/articles/s41598-021-86669-2'
-citation: 'Guo, Z., Niu, M., & Wang, Q. (2021. &quot;Target familiarity and visual working memory do not influence familiarity effect in visual search， 11.&quot; <i>Scientific Reports</i>(1), 7560.'
+citation: 'Guo, Z., Niu, M., & Wang, Q. (2021. &quot;Target familiarity and visual working memory do not influence familiarity effect in visual search, 11.&quot; <i>Scientific Reports</i>(1), 7560.'
 ---
 [Download paper here](http://guogithub0321.github.io/files/paper3.pdf)
 
