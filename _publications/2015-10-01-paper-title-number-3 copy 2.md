@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 4"
+title: "Paper Title Number 5"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-4
 excerpt: 'This paper is about the number 4. The number 5 is left for future work.'
@@ -10,4 +10,4 @@ citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 
 ---
 [Download paper here](http://academicpages.github.io/files/paper3.pdf)
 
-Chen, J., Guo, Z., Zhang, L., & Pan, J. (2021). A partially confirmatory approach to scale development with the Bayesian Lasso.  `<i>`Psychological Methods. `</i>`, 26(2), 210.
+Guo, Z., & Chen, J.∗ (2019). Teaching evaluation under the view of modern validity: reflection and suggestions [Chinese].  `<i>`Higher Education Exploration, 3, `</i>`, 11-15.
