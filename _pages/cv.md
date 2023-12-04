@@ -19,19 +19,19 @@ Education
 Research Experience
 ===================
 
-Note. [n] refers to the item in the publication list.
+Note. <sup>[n]</sup> refers to the item in the publication list.
 
-### Prof. Xiang Wu’s Lab, Sun Yat-sen University
+* Prof. Xiang Wu’s Lab, Sun Yat-sen University
 
-* Research Tops: Cognitive Neuroscience <sup>[1]</sup>, Temporal Processing <sup>[2]</sup>
+* * Research Tops: Cognitive Neuroscience <sup>[1]</sup>, Temporal Processing <sup>[2]</sup>
 
-### Prof. Jinsong Chen’s Lab, Sun Yat-sen University
+* Prof. Jinsong Chen’s Lab, Sun Yat-sen University
 
-* Research Tops: Latent Variable Modeling <sup>[4,7]</sup>, Psychometerics <sup>[5]</sup>
+* * Research Tops: Latent Variable Modeling <sup>[4,7]</sup>, Psychometerics <sup>[5]</sup>
 
-### Prof. Qi Wang’s Lab, Sun Yat-sen University
+* Prof. Qi Wang’s Lab, Sun Yat-sen University
 
-* Research Tops: Cognition <sup>[3]</sup>
+* * Research Tops: Cognition <sup>[3]</sup>
 
 Work experience
 ===============
