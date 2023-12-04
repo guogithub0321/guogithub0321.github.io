@@ -86,7 +86,7 @@ author:
   location         : "Beijing"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com.hk/citations?user=zpnApvgAAAAJ&hl=zh-CN"
+  googlescholar    : True
   email            : "zhihan0321@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
