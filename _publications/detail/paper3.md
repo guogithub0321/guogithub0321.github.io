@@ -1,6 +1,6 @@
 ---
 title: "Paper Title Number 3"
-collection: publications
+collection: n
 permalink: /publication/n
 excerpt: ''
 date: 2021-04-07
