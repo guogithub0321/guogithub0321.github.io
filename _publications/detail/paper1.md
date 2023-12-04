@@ -5,7 +5,7 @@ permalink: /publication/paper1
 excerpt: ''
 date: 2023-03-07
 venue: 'Frontiers in Neuroscience'
-paperurl: [link](https://www.frontiersin.org/articles/10.3389/fnins.2023.1057908/full)
+paperurl:https://www.frontiersin.org/articles/10.3389/fnins.2023.1057908/full
 citation: 'Zhou, P., Wu, Q., Zhan, L., Guo, Z., Wang, C., Wang, S., ... & Wu, X. (2023). &quot;Alpha peak activity in resting-state EEG is associated with depressive score.&quot; <i>Frontiers in Neuroscience</i>, 17, 1057908.'
 ---
 [Download paper here](https://www.frontiersin.org/articles/10.3389/fnins.2023.1057908/full)
