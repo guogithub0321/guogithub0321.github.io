@@ -8,6 +8,8 @@ redirect_from:
 ---
 {% include base_path %}
 
+You can find my CV here: [cv.pdf](../files/zhihan_guo_cv.pdf)
+
 Education
 =========
 
@@ -23,13 +25,9 @@ Work experience
 Skills &  Interests
 ===================
 
-* Data Science & Programming:
+* Data Science & Programming: Python, R, MATLAB, MySQL, Mplus, Git
 * Languages: Chinese (Native), English
 * Interests: Drums, Workout, Stand-up Comedy
 
 Publications
 ============
-
-<ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
