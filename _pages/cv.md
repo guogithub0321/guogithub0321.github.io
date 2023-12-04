@@ -19,7 +19,7 @@ Education
 Research Experience
 ===================
 
-Note. /[x] refers to the item in the publication list.
+Note. [n] refers to the item in the publication list.
 
 #### Prof. Xiang Wu’s Lab, Sun Yat-sen University
 
