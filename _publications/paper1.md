@@ -5,10 +5,12 @@ permalink: /publication/paper1
 excerpt: ''
 date: 2023-03-07
 venue: 'Frontiers in Neuroscience'
-paperurl: 'https://www.frontiersin.org/articles/10.3389/fnins.2023.1057908/full'
+paperurl: [link](https://www.frontiersin.org/articles/10.3389/fnins.2023.1057908/full)
 citation: 'Zhou, P., Wu, Q., Zhan, L., Guo, Z., Wang, C., Wang, S., ... & Wu, X. (2023). &quot;Alpha peak activity in resting-state EEG is associated with depressive score.&quot; <i>Frontiers in Neuroscience</i>, 17, 1057908.'
 ---
-[Download paper here](http://guogithub0321.github.io/files/paper1.pdf)
+[Download paper here](https://www.frontiersin.org/articles/10.3389/fnins.2023.1057908/full)
+
+**Abstract**
 
 Introduction: Depression is a serious psychiatric disorder characterized by prolonged sadness, loss of interest or pleasure. The dominant alpha peak activity in resting-state EEG is suggested to be an intrinsic neural marker for diagnosis of mental disorders.
 
