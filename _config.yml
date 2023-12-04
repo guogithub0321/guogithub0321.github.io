@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Zhihan Guo"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : # "Your biography for the left-hand sidebar"
   location         : "Beijing"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -176,7 +176,7 @@ kramdown:
 # Collections
 collections:
   teaching:
-    output: true
+    output: false
     permalink: /:collection/:path/
   publications:
     output: true
@@ -185,7 +185,7 @@ collections:
     output: true
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 
