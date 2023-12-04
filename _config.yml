@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : #""
+title                    : "Zhihan Guo/Personal Homepage"
 title_separator          : "-"
 name                     : &name "Zhian Guo"
 description              : &description ":-)"
@@ -40,7 +40,7 @@ staticman:
   path                   : "_data/comments/{options.slug}"
   requiredFields         : ['name', 'email', 'message']
   transforms:
-    email                : "md5"
+    email                : "zhihan0321@gmail.com"
   generatedFields:
     date:
       type               : "date"
