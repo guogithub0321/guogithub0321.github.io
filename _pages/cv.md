@@ -30,8 +30,8 @@ Education
 
 Sun Yat-sen University
 
-* <div style="float: right;">2018-2021</div> M.S. in Applied Psychology
-* <div style="float: right;">2014-2018</div> B.S. in Psychology
+* <div style="float: right;">2018-2021</div> M.S. in Psychology
+* <div style="float: right;">2014-2018</div> B.S. in Applied Psychology
 
 Research Experience
 ===================
