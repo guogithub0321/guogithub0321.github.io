@@ -21,7 +21,7 @@ Sun Yat-sen University
 Research Experience
 ===================
 
-*Note. `<sup>`[n]`</sup>` refers to the item in the publication list.*
+*Note. <sup>[n]</sup> refers to the item in the publication list.*
 
 <div style="float: right;">2019-2021 </div> Prof. Xiang Wu’s Lab, Sun Yat-sen University
 * Research Area: Cognitive Neuroscience <sup>[1]</sup>, Temporal Processing <sup>[2]</sup>
