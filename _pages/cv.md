@@ -22,13 +22,13 @@ Research Experience
 *Note. <sup>[n]</sup> refers to the item in the publication list.*
 
 <div style="float: right;">2019-2021 </div> Prof. Xiang Wu’s Lab, Sun Yat-sen University
-* Research Tops: Cognitive Neuroscience <sup>[1]</sup>, Temporal Processing <sup>[2]</sup>
+* Research Area: Cognitive Neuroscience <sup>[1]</sup>, Temporal Processing <sup>[2]</sup>
 
 <div style="float: right;">2017-2019 </div> Prof. Jinsong Chen’s Lab, Sun Yat-sen University
-* Research Tops: Latent Variable Modeling <sup>[4,7]</sup>, Psychometerics <sup>[5]</sup>
+* Research Area: Latent Variable Modeling <sup>[4,7]</sup>, Psychometerics <sup>[5]</sup>
 
 <div style="float: right;">2016-2018 </div> Prof. Qi Wang’s Lab, Sun Yat-sen University
-* Research Tops: Cognition <sup>[3]</sup>
+* Research Area: Cognition <sup>[3]</sup>
 
 Publications
 ============
@@ -43,8 +43,8 @@ Publications
 
 ### Conference Presentations
 
-6. Wang, J., Guo,Z., Huang, J., Zhou,H. & Pan, J. (2019). *The Mechanism of Gender Differences in Attitude towards Legal Abortion: Indirect Effects of Sexual Permissiveness Attitudes and Gender Stereotypes.* The 22nd National Academic Conference of Psychology, 18-20 Oct, Hangzhou.[[abstract]](https://drive.google.com/file/d/1odkYz0VVHezjTkRJPUL-y3yD0-D2wkFo/view?usp=drive_link)
-7. Guo, Z., Chen, J., & Tu.,D. (2018). *Analysis of Raven’s Advanced Progressive Matrices from a Cognitive Diagnosis Modeling Framework.* The 13th Cross-Straits Conference on Educational and Psychological Testing, 22-25 Oct, Taiwan.[[slides]](https://drive.google.com/file/d/1KdSasxM4VMMRUF-0-tSUA5M5k_74V50n/view)
+6. Wang, J., **Guo,Z.**, Huang, J., Zhou,H. & Pan, J. (2019). *The Mechanism of Gender Differences in Attitude towards Legal Abortion: Indirect Effects of Sexual Permissiveness Attitudes and Gender Stereotypes.* The 22nd National Academic Conference of Psychology, 18-20 Oct, Hangzhou.[[abstract]](https://drive.google.com/file/d/1odkYz0VVHezjTkRJPUL-y3yD0-D2wkFo/view?usp=drive_link)
+7. **Guo, Z.**, Chen, J., & Tu.,D. (2018). *Analysis of Raven’s Advanced Progressive Matrices from a Cognitive Diagnosis Modeling Framework.* The 13th Cross-Straits Conference on Educational and Psychological Testing, 22-25 Oct, Taiwan.[[slides]](https://drive.google.com/file/d/1KdSasxM4VMMRUF-0-tSUA5M5k_74V50n/view)
 
 Work experience
 ===============
