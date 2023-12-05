@@ -8,15 +8,13 @@ redirect_from:
 ---
 {% include base_path %}
 
-You can find my CV here: [cv.pdf](../files/zhihan_guo_cv.pdf)
+You can find my full CV here: [cv.pdf](../files/zhihan_guo_cv.pdf)
 
 Education
 =========
 Sun Yat-sen University
 * <div style="float: right;">2018-2021</div> M.S. in Applied Psychology
 * <div style="float: right;">2014-2018</div> B.S. in Psychology
-<!-- * M.S. in Psychology, Sun Yat-sen University, 2018-2021
-* B.S. in Applied Psychology, Sun Yat-sen University, 2014-2018 -->
 
 Research Experience
 ===================
@@ -24,15 +22,12 @@ Research Experience
 *Note. <sup>[n]</sup> refers to the item in the publication list.*
 
 <div style="float: right;">2019-2021 </div> Prof. Xiang Wu’s Lab, Sun Yat-sen University
-
 * Research Tops: Cognitive Neuroscience <sup>[1]</sup>, Temporal Processing <sup>[2]</sup>
 
 <div style="float: right;">2017-2019 </div> Prof. Jinsong Chen’s Lab, Sun Yat-sen University
-
 * Research Tops: Latent Variable Modeling <sup>[4,7]</sup>, Psychometerics <sup>[5]</sup>
 
 <div style="float: right;">2016-2018 </div> Prof. Qi Wang’s Lab, Sun Yat-sen University
-
 * Research Tops: Cognition <sup>[3]</sup>
 
 Publications
@@ -54,9 +49,9 @@ Publications
 Work experience
 ===============
 
-<div style="float: right;">2022.05 - present </div> Infinite Brain Technology, Beijing, China
+* <div style="float: right;">2022.05 - present </div> Infinite Brain Technology, Beijing, China
 
-<div style="float: right;">2021.07 - 2022.04 </div> Meituan, Beijing, China
+* <div style="float: right;">2021.07 - 2022.04 </div> Meituan, Beijing, China
 
 Skills &  Interests
 ===================
