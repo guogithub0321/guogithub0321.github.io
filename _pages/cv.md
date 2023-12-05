@@ -43,6 +43,7 @@ Publications
 5. **Guo, Z.**, & Chen, J.∗ (2019). Teaching evaluation under the view of modern validity: reflection and suggestions [Chinese]. *Higher Education Exploration, 3*, 11-15.
 
 **Conference Presentations**
+
 6. Wang, J., **Guo,Z.**, Huang, J., Zhou,H. & Pan, J. (2019). *The Mechanism of Gender Differences in Attitude towards Legal Abortion: Indirect Effects of Sexual Permissiveness Attitudes and Gender Stereotypes.* The 22nd National Academic Conference of Psychology, 18-20 Oct, Hangzhou.[[abstract]](https://drive.google.com/file/d/1odkYz0VVHezjTkRJPUL-y3yD0-D2wkFo/view?usp=drive_link)
 7. **Guo, Z.**, Chen, J., & Tu.,D. (2018). *Analysis of Raven’s Advanced Progressive Matrices from a Cognitive Diagnosis Modeling Framework.* The 13th Cross-Straits Conference on Educational and Psychological Testing, 22-25 Oct, Taiwan.[[slides]](https://drive.google.com/file/d/1KdSasxM4VMMRUF-0-tSUA5M5k_74V50n/view)
 
