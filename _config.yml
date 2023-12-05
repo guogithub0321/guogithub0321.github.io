@@ -86,11 +86,11 @@ author:
   location         : "Beijing"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : True
+  googlescholar    : true
   email            : "zhihan0321@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
-  bitbucket        :
+  bitbucket        : false
   codepen          :
   dribbble         :
   flickr           :
