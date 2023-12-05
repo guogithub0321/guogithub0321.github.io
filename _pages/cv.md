@@ -6,8 +6,6 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
-
 <!-- Google tag (gtag.js) -->
 
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-P4VC8F5DR0"></script>
@@ -19,7 +17,6 @@ redirect_from:
 
   gtag('config', 'G-P4VC8F5DR0');
 </script>
-
 
 {% include base_path %}
 
@@ -62,7 +59,7 @@ Publications
 6. Wang, J., **Guo,Z.**, Huang, J., Zhou,H. & Pan, J. (2019). *The Mechanism of Gender Differences in Attitude towards Legal Abortion: Indirect Effects of Sexual Permissiveness Attitudes and Gender Stereotypes.* The 22nd National Academic Conference of Psychology, 18-20 Oct, Hangzhou.[[abstract]](https://drive.google.com/file/d/1odkYz0VVHezjTkRJPUL-y3yD0-D2wkFo/view?usp=drive_link)
 7. **Guo, Z.**, Chen, J., & Tu.,D. (2018). *Analysis of Raven’s Advanced Progressive Matrices from a Cognitive Diagnosis Modeling Framework.* The 13th Cross-Straits Conference on Educational and Psychological Testing, 22-25 Oct, Taiwan.[[slides]](https://drive.google.com/file/d/1KdSasxM4VMMRUF-0-tSUA5M5k_74V50n/view)
 
-Work experience
+Work Experience
 ===============
 
 * <div style="float: right;">2022.05 - present </div> Infinite Brain Technology, Beijing, China
