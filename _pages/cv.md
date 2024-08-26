@@ -35,17 +35,14 @@ Sun Yat-sen University
 
 Research Experience
 ===================
-
-*Note. <sup>[n]</sup> refers to the item in the publication list.*
-
 <div style="float: right;">2019-2021 </div> Prof. Xiang Wu’s Lab, Sun Yat-sen University
-* Research Area: Cognitive Neuroscience <sup>[1]</sup>, Temporal Processing <sup>[2]</sup>
+* Research Area: Cognitive Neuroscience, Temporal Processing
 
 <div style="float: right;">2017-2019 </div> Prof. Jinsong Chen’s Lab, Sun Yat-sen University
-* Research Area: Latent Variable Modeling <sup>[4,7]</sup>, Psychometerics <sup>[5]</sup>
+* Research Area: Latent Variable Modeling , Psychometerics
 
 <div style="float: right;">2016-2018 </div> Prof. Qi Wang’s Lab, Sun Yat-sen University
-* Research Area: Cognition <sup>[3]</sup>
+* Research Area: Cognition
 
 Publications
 ============
