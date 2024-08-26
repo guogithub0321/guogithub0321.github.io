@@ -24,6 +24,9 @@ You can find my full CV here: [cv.pdf](../files/zhihan_guo_cv.pdf)
 
 Education
 =========
+Emory University
+
+* <div style="float: right;">2024-</div> Ph.D in Psychology
 
 Sun Yat-sen University
 
@@ -65,9 +68,3 @@ Work Experience
 * <div style="float: right;">2022.05 - present </div> Infinite Brain Technology, Beijing, China
 * <div style="float: right;">2021.07 - 2022.04 </div> Meituan, Beijing, China
 
-Skills &  Interests
-===================
-
-* Data Science & Programming: Python, R, MATLAB, MySQL, Mplus, Git
-* Languages: Chinese (Native), English
-* Interests: Drums, Workout, Stand-up Comedy
