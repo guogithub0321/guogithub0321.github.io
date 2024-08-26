@@ -40,7 +40,7 @@ staticman:
   path                   : "_data/comments/{options.slug}"
   requiredFields         : ['name', 'email', 'message']
   transforms:
-    email                : "zhihan0321@gmail.com"
+    email                : "zhihan.guo@emory.edu"
   generatedFields:
     date:
       type               : "date"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zhihan Guo"
+  name             : "Zhihan(Hannah) Guo"
   avatar           : "profile_g.png"
   bio              : # "Your biography for the left-hand sidebar"
-  location         : "Beijing"
+  location         : "Atlanta"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com.hk/citations?user=zpnApvgAAAAJ&hl=zh-CN"
-  email            : "zhihan0321@gmail.com"
+  email            : "zhihan.guo@emory.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        : false
