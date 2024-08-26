@@ -19,8 +19,6 @@ redirect_from:
   gtag('config', 'G-P4VC8F5DR0');
 </script>
 
-I completed both my undergraduate and master's studies in psychology at Sun Yat-sen University. Driven by my diverse interests, I acquired multifaceted hands-on expertise in research, including cognition, cognitive neuroscience, psychometrics and latent variable modeling. After graduation, I worked at a leading internet company in Beijing first, and now I'm a data mining engineer at a startup focused on digital therapy for mental health. This role has not only shown me the significance of psychological and neuroscience research but has also deepened my insight into the challenges of treating psychiatric disorders.
+Welcome to my website! I am currently a first-year PhD student in Psychology at Emory University, working with Dr. Jared Medina. My research interests include the neural mechanisms of body representation, particularly how it is shaped by sensory inputs and affected by brain damage.
 
-These realizations solidified my determination to pursue a career in scientific research. By delving into the neural mechanism of cognition, I aim to enhance our understanding of both normal and abnormal cognitive processes, contributing to the advancement of diagnostic and therapeutic tools.
-
-For more information, you can find my full CV here: [cv.pdf](../files/zhihan_guo_cv.pdf), or see the [CV page](/cv/).
+Before joining Emory, I completed both my Bachelor's and Master's degrees in Psychology at Sun Yat-sen University in China, where I engaged in research related to cognitive science, psychometrics, and neuroscience.
