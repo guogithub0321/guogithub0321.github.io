@@ -26,7 +26,7 @@ Education
 =========
 Emory University
 
-* <div style="float: right;">2024-   </div> Ph.D in Psychology
+* <div style="float: right;">2024-present  </div> Ph.D. in Psychology
 
 Sun Yat-sen University
 
