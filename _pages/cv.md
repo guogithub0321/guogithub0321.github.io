@@ -23,11 +23,11 @@ redirect_from:
 
 Education
 =========
-Emory University
+<img src="images/emory.png" alt="图标" width="40" height="48" />  Emory University
 
 * <div style="float: right;">2024-present  </div> Ph.D. in Psychology
 
-Sun Yat-sen University
+<img src="images/sysu.png" alt="图标" width="40" height="40" /> Sun Yat-sen University
 
 * <div style="float: right;">2018-2021</div> M.S. in Psychology
 * <div style="float: right;">2014-2018</div> B.S. in Applied Psychology
