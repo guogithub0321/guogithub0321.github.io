@@ -16,7 +16,7 @@
     @include clearfix;
     padding: 1em 1em 1em;
     // font-family: $sans-serif-narrow;
-    font-family: 'Courier New', Courier, monospace;
+    font-family: $georgia;
 
     @include breakpoint($x-large) {
       max-width: $x-large;

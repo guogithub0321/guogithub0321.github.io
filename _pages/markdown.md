@@ -176,7 +176,7 @@ This tag styles large blocks of code.
   margin: 0 0 3px;
   font-weight: bold;
   font-size: 28px;
-  line-height: 1.2;
+  line-height: 1;
   and here's a line of some really, really, really, really long text, just to see how the PRE tag handles it and to find out how it overflows;
 }
 </pre>
