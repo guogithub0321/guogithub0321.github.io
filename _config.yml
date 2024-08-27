@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Homepage"
+title                    : "Zhihan Guo"
 title_separator          : "-"
 name                     : &name "Zhihan Guo"
 description              : &description ":-)"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zhihan Guo"
+  name             : ""
   avatar           : "profile_g.png"
   bio              : # "Your biography for the left-hand sidebar"
   location         : "Atlanta"
