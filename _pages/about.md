@@ -19,6 +19,6 @@ redirect_from:
   gtag('config', 'G-P4VC8F5DR0');
 </script>
 
-Hi, I am Zhihan (Hannah) Guo and welcome to my website! I am currently a first-year PhD student in Psychology at Emory University, advised by [Prof. Jared Medina](https://www.jaredmedina.com). My research interests include the neural basis of body representation and how other senses and brain damage influence it.
+Hi, I am Zhihan (Hannah) Guo and welcome to my website! I am currently a first-year PhD student in Psychology at Emory University, advised by <a href="https://www.jaredmedina.com" target="_blank">Prof. Jared Medina</a>. My research interests include the neural basis of body representation and how other senses and brain damage influence it.
 
 Prior to that, I completed both my Bachelor's and Master's degrees in Psychology at Sun Yat-sen University in China, where I engaged in research related to cognitive science, psychometrics, and neuroscience.
