@@ -23,7 +23,7 @@ redirect_from:
 
 Education
 =========
-<img src="/images/emory.png" width="30" height="36" />  Emory University
+<img src="/images/emory.png" width="33.3" height="40" />  Emory University
 
 * <div style="float: right;">2024-present  </div> Ph.D. in Psychology
 
