@@ -32,7 +32,7 @@ Education
 * <div style="float: right;">2018-2021</div> M.S. in Psychology
 * <div style="float: right;">2014-2018</div> B.S. in Applied Psychology
 
-Research Experience
+Research Experiences
 ===================
 <div style="float: right;">2019-2021 </div> Prof. Xiang Wu’s Lab, Sun Yat-sen University
 * Research Area: Cognitive Neuroscience, Temporal Processing
@@ -62,7 +62,7 @@ Ad-hoc Reviewer
 ===============
 * Psychological Method
 
-Work Experience
+Work Experiences
 ===============
 
 * <div style="float: right;">2022.05 - 2024.03 </div> Infinite Brain Technology, Beijing, China
