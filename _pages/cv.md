@@ -62,6 +62,6 @@ Publications
 Work Experience
 ===============
 
-* <div style="float: right;">2022.05 - present </div> Infinite Brain Technology, Beijing, China
+* <div style="float: right;">2022.05 - 2024.03 </div> Infinite Brain Technology, Beijing, China
 * <div style="float: right;">2021.07 - 2022.04 </div> Meituan, Beijing, China
 
