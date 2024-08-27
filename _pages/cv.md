@@ -20,8 +20,6 @@ redirect_from:
 
 {% include base_path %}
 
-### You can find my full CV here: [cv.pdf](../files/zhihan_guo_cv.pdf)
-
 Education
 =========
 Emory University
