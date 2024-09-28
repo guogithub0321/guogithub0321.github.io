@@ -41,7 +41,7 @@ Research Experiences
 * Research Area: Latent Variable Modeling , Psychometerics
 
 <div style="float: right;">2016-2018 </div> Prof. Qi Wang’s Lab, Sun Yat-sen University
-* Research Area: Cognition
+* Research Area: Working Memory
 
 Publications
 ============
@@ -60,7 +60,7 @@ Publications
 
 Ad-hoc Reviewer
 ===============
-* Psychological Method
+* Psychological Methods
 
 Work Experiences
 ===============
