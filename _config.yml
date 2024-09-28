@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "zhihan [dot] guo [at] emory [dot] edu"
+  name             : 
   avatar           : "profile_g.jpg"
-  bio              : # "Your biography for the left-hand sidebar"
+  bio              : "zhihan [dot] guo [at] emory [dot] edu"
   location         : "Atlanta"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
