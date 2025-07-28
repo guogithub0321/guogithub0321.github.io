@@ -20,20 +20,21 @@ redirect_from:
 
 {% include base_path %}
 
-
 Education
 =========
-<img src="/images/emory.png" width="33.3" height="40" />  Emory University
+
+`<img src="/images/emory.png" width="33.3" height="40" />`  Emory University
 
 * <div style="float: right;">2024-present  </div> Ph.D. in Psychology
 
-<img src="/images/sysu.png" width="40" height="40" />  Sun Yat-sen University
+`<img src="/images/sysu.png" width="40" height="40" />`  Sun Yat-sen University
 
 * <div style="float: right;">2018-2021</div> M.S. in Psychology
 * <div style="float: right;">2014-2018</div> B.S. in Applied Psychology
 
 Research Experiences
-===================
+====================
+
 <div style="float: right;">2019-2021 </div> Prof. Xiang Wu’s Lab, Sun Yat-sen University
 * Research Area: Cognitive Neuroscience, Temporal Processing
 
@@ -55,16 +56,17 @@ Publications
 5. **Guo, Z.**, & Chen, J.∗ (2019). Teaching evaluation under the view of modern validity: reflection and suggestions [Chinese]. *Higher Education Exploration, 3*, 11-15.
 
 **Conference Presentations**
-6. Wang, J., **Guo,Z.**, Huang, J., Zhou,H. & Pan, J. (2019). *The Mechanism of Gender Differences in Attitude towards Legal Abortion: Indirect Effects of Sexual Permissiveness Attitudes and Gender Stereotypes.* The 22nd National Academic Conference of Psychology, 18-20 Oct, Hangzhou.
-7. **Guo, Z.**, Chen, J., & Tu.,D. (2018). *Analysis of Raven’s Advanced Progressive Matrices from a Cognitive Diagnosis Modeling Framework.* The 13th Cross-Straits Conference on Educational and Psychological Testing, 22-25 Oct, Taiwan.
+1. **Guo, Z.**, Katz, S. & Medina, J., (2025). *Dissociating Tactile Perception from Body Location: Evidence from the Mirror Box Illusion.* The 23rd International Multisensory Research Forum, 15-18 July, Durham.
+2. Wang, J., **Guo,Z.**, Huang, J., Zhou,H. & Pan, J. (2019). *The Mechanism of Gender Differences in Attitude towards Legal Abortion: Indirect Effects of Sexual Permissiveness Attitudes and Gender Stereotypes.* The 22nd National Academic Conference of Psychology, 18-20 Oct, Hangzhou.
+3. **Guo, Z.**, Chen, J., & Tu.,D. (2018). *Analysis of Raven’s Advanced Progressive Matrices from a Cognitive Diagnosis Modeling Framework.* The 13th Cross-Straits Conference on Educational and Psychological Testing, 22-25 Oct, Taiwan.
 
 Ad-hoc Reviewer
 ===============
+
 * Psychological Methods
 
 Work Experiences
-===============
+================
 
 * <div style="float: right;">2022.05 - 2024.03 </div> Infinite Brain Technology, Beijing, China
 * <div style="float: right;">2021.07 - 2022.04 </div> Meituan, Beijing, China
-
