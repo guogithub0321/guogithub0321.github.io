@@ -4,8 +4,6 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-
-
 ## Article:
 
 1. Zhou, P., Wu, Q., Zhan, L., **Guo, Z.**, Wang, C., Wang, S., ... & Wu, X. (2023). Alpha peak activity in resting-state EEG is associated with depressive score. *Frontiers in Neuroscience,* *17*, 1057908.[[pdf]](../files/alpha.pdf)
@@ -16,8 +14,9 @@ author_profile: true
 
 ## Conference Presentations:
 
-1. Wang, J., Guo,Z., Huang, J., Zhou,H. & Pan, J. (2019). The Mechanism of Gender Differences in Attitude towards Legal Abortion: Indirect Effects of Sexual Permissiveness Attitudes and Gender Stereotypes. The 22nd National Academic Conference of Psychology, 18-20 Oct, Hangzhou.[[abstract]](https://drive.google.com/file/d/1odkYz0VVHezjTkRJPUL-y3yD0-D2wkFo/view?usp=drive_link)
-2. Guo, Z., Chen, J., & Tu.,D. (2018). Analysis of Raven’s Advanced Progressive Matrices from a Cognitive Diagnosis Modeling Framework. The 13th Cross-Straits Conference on Educational and Psychological Testing, 22-25 Oct, Taiwan.[[slides]](https://drive.google.com/file/d/1KdSasxM4VMMRUF-0-tSUA5M5k_74V50n/view)
+1. **Guo, Z.**, Katz, S. & Medina, J., (2025). Dissociating Tactile Perception from Body Location: Evidence from the Mirror Box Illusion. The 23rd International Multisensory Research Forum, 15-18 July, Durham. [[abstract]](https://imrf2025.sciencesconf.org/data/AbstractBooklet_Complete_14_07_25.pdf) 
+2. Wang, J., **Guo,Z.**, Huang, J., Zhou,H. & Pan, J. (2019). The Mechanism of Gender Differences in Attitude towards Legal Abortion: Indirect Effects of Sexual Permissiveness Attitudes and Gender Stereotypes. The 22nd National Academic Conference of Psychology, 18-20 Oct, Hangzhou.[[abstract]](https://drive.google.com/file/d/1odkYz0VVHezjTkRJPUL-y3yD0-D2wkFo/view?usp=drive_link)
+3. **Guo, Z.**, Chen, J., & Tu.,D. (2018). Analysis of Raven’s Advanced Progressive Matrices from a Cognitive Diagnosis Modeling Framework. The 13th Cross-Straits Conference on Educational and Psychological Testing, 22-25 Oct, Taiwan.[[slides]](https://drive.google.com/file/d/1KdSasxM4VMMRUF-0-tSUA5M5k_74V50n/view)
 
 {% if site.googlescholar %}
   You can also find my articles on `<u><a href"{https://scholar.google.com.hk/citations?user=zpnApvgAAAAJ&hl=zh-CN}">`my Google Scholar profile `</a>`.`</u>`
