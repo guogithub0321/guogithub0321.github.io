@@ -19,6 +19,6 @@ redirect_from:
   gtag('config', 'G-P4VC8F5DR0');
 </script>
 
-Hi, I am Zhihan Guo and welcome to my website! I am a PhD student in Psychology at Emory University (2024 - ), advised by `<a href="https://www.jaredmedina.com" target="_blank">`Prof. Jared Medina `</a>`. My research interests focus on how the brain integrates multiple sources of information to form a representation of our bodies.
+Hi, I am Zhihan Guo and welcome to my website! I am a PhD student in Psychology at Emory University (2024 - ), advised by <a href="https://www.jaredmedina.com" target="_blank">Prof. Jared Medina </a>. My research interests focus on how the brain integrates multiple sources of information to form a representation of our bodies.
 
 Prior to that, I completed both my Bachelor's and Master's degrees in Psychology at Sun Yat-sen University in China, where I engaged in research related to cognitive science, psychometrics, and neuroscience.
